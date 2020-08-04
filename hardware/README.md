@@ -22,4 +22,4 @@ My initial choice was to use the ESP-01 module. It's small and low cost. But eve
 With this cheap Microwave radar motion sensor, I can detect the human presence near the module and prevent an automatic trigger when someone is near. Manly, I want to prevent spray directly on anyone's face when he walks nearby or scare him with an unexpected spray trigger. I could use other types of sensors (like ultrasonic or IR), but I will need to change the Glade Plastic case (drill holes, etc.), and they are more expensive. The RCWL-0516 is cheap (0.56 euro), and I can fit it easily inside the case.
 
 
-![Tux](Schematic_Glade Air Freshener WiFi Mod_Sheet_1_20200225012246.png)
+![Schematic](/hardware/Schematic_Glade&#32;Air&#32;Freshener&#32;WiFi&#32;Mod_Sheet_1_20200225012246.png)
